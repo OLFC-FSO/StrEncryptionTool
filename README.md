@@ -1,2 +1,17 @@
 # StrEncryptionTool
-This a tool of string.To help save your password in online textbook app by one secret key
+一款完全开源的字符串加密解密工具
+## Target
+在线笔记平台保护你的字符串隐私
+
+## 最佳实践
+1.配合OneDrive保护账号密码
+原账密明文保存（不安全，泄露隐私）
+
+密码加密：
+
+加密后保存：
+
+密码使用（解密）：
+
+## 优势
+  足够轻量化，随时可以下载，使用于在线笔记保护字符串的隐私
